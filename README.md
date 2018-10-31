@@ -46,3 +46,7 @@ you want to use it, connect it to the I<sup>2</sup>C bus and read it from the
 PX4 directly instead.
 
 ![Example of how a build could look once finished.](Images/Small_build.jpg)
+
+## Sensor performance example
+
+[![YouTube video example of flight using this sensor](https://img.youtube.com/vi/4UeJVA69frw/0.jpg)](https://www.youtube.com/watch?v=4UeJVA69frw)
